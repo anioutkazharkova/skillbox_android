@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloSkillboxCompose2</string>
+    <string name="first_screen">FirstScreen</string>
+    <string name="second_screen">SecondScreen</string>
+</resources>

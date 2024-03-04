@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloSkillbox</string>
+    <string name="hello_skillbox">Hello, Skillbox!</string>
+    <string name="from_first">From first</string>
+</resources>
